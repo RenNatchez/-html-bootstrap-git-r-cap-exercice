@@ -14199,7 +14199,7 @@ button.bg-bleu:focus {
   margin-left: auto !important;
 }
 
-@media (min-width: 576px) {
+@media (max-width: 576px) {
   .m-sm-0 {
     margin: 0 !important;
   }
@@ -14632,7 +14632,7 @@ button.bg-bleu:focus {
     margin-left: auto !important;
   }
 }
-@media (min-width: 768px) {
+@media (max-width: 768px) {
   .m-md-0 {
     margin: 0 !important;
   }
@@ -15065,7 +15065,7 @@ button.bg-bleu:focus {
     margin-left: auto !important;
   }
 }
-@media (min-width: 992px) {
+@media (max-width: 992px) {
   .m-lg-0 {
     margin: 0 !important;
   }
